@@ -1,0 +1,19 @@
+{
+  "name": "revframe",
+  "version": "1.0.0",
+  "description": "Nodejs framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revinsys/revframe.git"
+  },
+  "author": "Stanislav Zhernosek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revinsys/revframe/issues"
+  },
+  "homepage": "https://github.com/revinsys/revframe#readme"
+}
